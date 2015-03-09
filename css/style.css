@@ -1,14 +1,8 @@
-body{
- /* background-color: #F2F2F2;*/
- background-color: green;
-}
-
 #container{
   width:686px;
   height: auto;
   margin: auto;
   font-size: 13px;
-
   background-color:#ffffff;
 }
 
@@ -19,18 +13,19 @@ body{
   padding-bottom: 35px;
   text-align: center;
   font-size: xx-large;
-  font-family: 'Open Sans', sans-serif;
+  font-family: sans-serif;
 
 }
 
 #form{
 	padding-left: 50px;
 }
+
 #list{
 	padding-left: 50px;
 }
 
 #post{
 	margin-top: 7px;
-    padding-bottom: 45px;
+  padding-bottom: 45px;
 }
