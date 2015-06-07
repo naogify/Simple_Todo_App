@@ -12,7 +12,7 @@ This is the simple todo app. It uses Localstorage api of html5.
 
 
 ###Demo 
-http://thinker.sakura.ne.jp/3D_panda/
+http://thinker.sakura.ne.jp/Simple_Todo_App/
 
 ###System requirements
 This page is designed for chrome.
